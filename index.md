@@ -1,5 +1,6 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+#Welcome
+##A little bit about my Blog
+I love reading and talking about everyday tech mostly about smartphones, operating systems and the tech giants.
+I created this blog to:
+- Showoff my writing skills 😂
+- To write what i love to write
